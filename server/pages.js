@@ -158,6 +158,7 @@ pages.add('createPledge', '/pledges/new').add('createCollectivePledge', '/:slug/
 // ----------------------
 
 pages.add('applications', '/applications');
+pages.add('braintree', '/braintree');
 
 // Marketing Pages
 // ---------------
